@@ -1,0 +1,9 @@
+# Directories
+data/
+.v*/
+figures/*
+GPy/
+
+# Files 
+*.png
+*xlsx
