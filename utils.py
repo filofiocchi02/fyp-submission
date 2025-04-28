@@ -616,7 +616,6 @@ def cusum_test_plot(residuals, datetime_values, target=0, k=0.5, h=5, save_path=
     plt.axhline(y=-h, color=colors[1], linestyle='--', label='I')
     plt.xlabel('Date & Time')
     plt.ylabel('Cumulative Sum')
-    plt.grid(True)
 
     y_min = -10
     y_max = 10

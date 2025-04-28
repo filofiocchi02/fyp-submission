@@ -4,14 +4,14 @@ Epistemic Uncertainty BNN (Flipout) - 1.0% Sample,124.99,92.54,124.93,92.37,17.1
 Epistemic Uncertainty BNN (Flipout),29.38,18.11,29.75,18.28,25.64,19.66
 Probabilistic MLP (Separate Sub-models),28.28,15.16,29.1,15.42,98.22,94.01
 Prob. MLP (Fine-tuned),24.86,13.43,25.57,13.8,98.53,95.11
-Stochastic Output BNN (Flipout),29.64,16.27,30.06,16.47,98.38,94.5
-Prob. MLP,27.14,14.47,28.19,14.99,98.37,94.37
+Stochastic Output BNN (Flipout),468.28,262.58,878.81,594.8,2.77,2.1
+Prob. MLP,130.31,56.72,431.87,287.32,21.58,18.63
 Probabilistic CNN with Gaussian Output,32.4,18.51,33.38,18.95,97.35,91.28
 "Probabilistic Multivariate MLP (Only Diagonal, separate branches)",38.03,24.2,42.06,26.91,97.78,92.77
 Probabilistic Multivariate MLP (Only Diagonal),41.47,26.83,44.26,28.96,97.26,91.7
 Probabilistic Multivariate MLP (Lower Triangular Covariance Matrix),53.46,34.23,56.5,36.53,99.98,99.95
 Large Prob. MLP,24.4,13.29,26.09,14.17,98.19,93.96
-Large MLP (Fine-tuned),22.08,11.83,23.58,12.63,97.75,93.1
+Large MLP (Fine-tuned),22.42,12.08,22.42,12.08,98.54,94.62
 OLS Regresion,98.53,68.0,99.2,68.5,-,-
 Ridge Regresion,98.53,68.01,99.2,68.5,-,-
-"GP (RBF, sparse)",44.92,30.48,45.17,30.44,97.32,94.31
+"GP (RBF, sparse)",50.93,33.29,343.83,217.21,71.13,65.12
